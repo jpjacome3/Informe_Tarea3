@@ -30,6 +30,8 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 5**
+ 
+ 
 ![WhatsApp Image 2021-06-21 at 16 07 05](https://user-images.githubusercontent.com/85137954/122829214-55c34300-d2ac-11eb-92e8-ee67c15a6ce7.jpeg)
 ![WhatsApp Image 2021-06-21 at 16 07 53](https://user-images.githubusercontent.com/85137954/122829224-5b208d80-d2ac-11eb-94ee-c6ebf81d9d4c.jpeg)
 ![WhatsApp Image 2021-06-21 at 16 08 49](https://user-images.githubusercontent.com/85137954/122829241-607dd800-d2ac-11eb-831a-03e38b82b713.jpeg)
