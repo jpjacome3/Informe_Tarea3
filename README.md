@@ -17,7 +17,7 @@
  
 Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y voltajes de Kirchoff, además de desarrollar la capacidad de resolver circuitos en serie y paralelo analizando el comportamiento de los resistores en cada uno de ellos.
 
- # 1.2 OBJETIVOS ESPECÍFICOS
+ ## 1.2 OBJETIVOS ESPECÍFICOS
  
 
  ## 2. MARCO TEÓRICO 
