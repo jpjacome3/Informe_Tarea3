@@ -30,9 +30,28 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 5**
- 
+![WhatsApp Image 2021-06-21 at 16 07 05](https://user-images.githubusercontent.com/85137954/122829214-55c34300-d2ac-11eb-92e8-ee67c15a6ce7.jpeg)
+![WhatsApp Image 2021-06-21 at 16 07 53](https://user-images.githubusercontent.com/85137954/122829224-5b208d80-d2ac-11eb-94ee-c6ebf81d9d4c.jpeg)
+![WhatsApp Image 2021-06-21 at 16 08 49](https://user-images.githubusercontent.com/85137954/122829241-607dd800-d2ac-11eb-831a-03e38b82b713.jpeg)
+![WhatsApp Image 2021-06-21 at 16 09 27](https://user-images.githubusercontent.com/85137954/122829252-64a9f580-d2ac-11eb-8300-cdf30621fd6f.jpeg)
+![WhatsApp Image 2021-06-21 at 16 10 58](https://user-images.githubusercontent.com/85137954/122829264-68d61300-d2ac-11eb-968a-e7ff4b273825.jpeg)
+![WhatsApp Image 2021-06-21 at 16 11 34](https://user-images.githubusercontent.com/85137954/122829277-6c699a00-d2ac-11eb-8369-823cded7e1f7.jpeg)
+![WhatsApp Image 2021-06-21 at 16 12 01](https://user-images.githubusercontent.com/85137954/122829288-6ffd2100-d2ac-11eb-97cc-b50f269f8648.jpeg)
+![WhatsApp Image 2021-06-21 at 16 12 43](https://user-images.githubusercontent.com/85137954/122829313-74c1d500-d2ac-11eb-8500-ac48a44a58c1.jpeg)
+![WhatsApp Image 2021-06-21 at 16 13 02](https://user-images.githubusercontent.com/85137954/122829323-78555c00-d2ac-11eb-9da8-364da85f85e5.jpeg)
+![WhatsApp Image 2021-06-21 at 16 13 37](https://user-images.githubusercontent.com/85137954/122829332-7db2a680-d2ac-11eb-9950-efac4cf25b32.jpeg)
+![WhatsApp Image 2021-06-21 at 16 14 10](https://user-images.githubusercontent.com/85137954/122829347-830ff100-d2ac-11eb-8860-12b2bf84ab56.jpeg)
+![WhatsApp Image 2021-06-21 at 16 15 06](https://user-images.githubusercontent.com/85137954/122829454-a5a20a00-d2ac-11eb-8f4d-32da8a8a886b.jpeg)
+![WhatsApp Image 2021-06-21 at 16 15 32](https://user-images.githubusercontent.com/85137954/122829461-a8046400-d2ac-11eb-9ff9-be16237cbe66.jpeg)
+![WhatsApp Image 2021-06-21 at 16 16 01](https://user-images.githubusercontent.com/85137954/122829592-cf5b3100-d2ac-11eb-9fa0-7312f8a206f2.jpeg)
+![WhatsApp Image 2021-06-21 at 16 16 33](https://user-images.githubusercontent.com/85137954/122829619-d7b36c00-d2ac-11eb-9867-3810bf042f73.jpeg)
+![WhatsApp Image 2021-06-21 at 16 16 57](https://user-images.githubusercontent.com/85137954/122829629-dbdf8980-d2ac-11eb-866d-5d85b58619e3.jpeg)
+![WhatsApp Image 2021-06-21 at 16 17 22](https://user-images.githubusercontent.com/85137954/122829644-e13cd400-d2ac-11eb-8c05-a596950f7820.jpeg)
+![WhatsApp Image 2021-06-21 at 16 17 43](https://user-images.githubusercontent.com/85137954/122829668-e69a1e80-d2ac-11eb-933a-15763fd928e8.jpeg)
+![WhatsApp Image 2021-06-21 at 16 17 59](https://user-images.githubusercontent.com/85137954/122829683-ebf76900-d2ac-11eb-8823-1c9f08fabed4.jpeg)
 
- **CAPITULO 5**
+
+ **CAPITULO 6**
  
  
 ## 4. VIDEO
