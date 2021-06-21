@@ -1,16 +1,17 @@
 # Informe_Tarea3
 **Integrantes:**
-- Jean Jacome
 - Jordy Coyaguillo
-- Ivan Vasquez
+- Jean Jacome
 - Francisco Salazar
+- Ivan Vasquez
+
 
 
  **NRC:** 5406
  
  **Docente:** Ing. Darwin Alulema.
  
- **Tema:** Capitulo 3(Resistencias) y Capitulo 4(Ley de ohm, Potencia y energia)
+ **Tema:** Capitulo 5 ( ) y Capitulo 6 ( )
  
  ## 1. OBJETIVO GENERAL
  
