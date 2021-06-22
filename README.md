@@ -24,6 +24,9 @@ Determinar que sucede en cada circuito en paralelo, como funciona la corriente e
 Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la corriente, que sucede en cada nodo y como se descompone esta.
 
  ## 2. MARCO TEÓRICO 
+ ![serie](https://user-images.githubusercontent.com/84586968/122887676-be3f0e00-d306-11eb-8b86-dae5a3357b91.png)
+ 
+ ![lvk](https://user-images.githubusercontent.com/84586968/122887680-bed7a480-d306-11eb-9705-f18d533319fc.png)
  
  ![png (4)](https://user-images.githubusercontent.com/85137954/122824117-d5014880-d2a5-11eb-930b-89641063f901.png)
 
