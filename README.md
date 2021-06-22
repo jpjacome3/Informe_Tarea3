@@ -24,9 +24,6 @@ Determinar que sucede en cada circuito en paralelo, como funciona la corriente e
 Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la corriente, que sucede en cada nodo y como se descompone esta.
 
  ## 2. MARCO TEÓRICO 
- ![serie](https://user-images.githubusercontent.com/84586968/122887676-be3f0e00-d306-11eb-8b86-dae5a3357b91.png)
- 
- ![lvk](https://user-images.githubusercontent.com/84586968/122887680-bed7a480-d306-11eb-9705-f18d533319fc.png)
  
  ![png (4)](https://user-images.githubusercontent.com/85137954/122824117-d5014880-d2a5-11eb-930b-89641063f901.png)
 
@@ -62,28 +59,10 @@ Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la cor
 ![WhatsApp Image 2021-06-21 at 16 17 43](https://user-images.githubusercontent.com/85137954/122829668-e69a1e80-d2ac-11eb-933a-15763fd928e8.jpeg)
 ![WhatsApp Image 2021-06-21 at 16 17 59](https://user-images.githubusercontent.com/85137954/122829683-ebf76900-d2ac-11eb-8823-1c9f08fabed4.jpeg)
 
-![26_1](https://user-images.githubusercontent.com/84586968/122883191-9188f780-d302-11eb-87ae-bb4cea6743e6.png)
-![26_2](https://user-images.githubusercontent.com/84586968/122883200-9352bb00-d302-11eb-8378-5c3754865484.png)
-![26_3](https://user-images.githubusercontent.com/84586968/122883204-9483e800-d302-11eb-8a80-f285f40441a2.png)
-![26_4](https://user-images.githubusercontent.com/84586968/122883212-95b51500-d302-11eb-92bd-0bf4e50863a2.png)
-![28](https://user-images.githubusercontent.com/84586968/122883237-9c438c80-d302-11eb-8782-52c2c9269c0a.png)
-![30_1](https://user-images.githubusercontent.com/84586968/122883244-9d74b980-d302-11eb-9f88-09c7ffd41998.png)
-![30_2](https://user-images.githubusercontent.com/84586968/122883248-9ea5e680-d302-11eb-9936-2fbf1d78575b.png)
-![32_1](https://user-images.githubusercontent.com/84586968/122883262-a2d20400-d302-11eb-927d-340b48b0d05c.png)
-![32_2](https://user-images.githubusercontent.com/84586968/122883265-a4033100-d302-11eb-95f6-a8828107e673.png)
-![34](https://user-images.githubusercontent.com/84586968/122883281-a82f4e80-d302-11eb-8a9f-9022d88e79f3.png)
-![36_1](https://user-images.githubusercontent.com/84586968/122883293-a9f91200-d302-11eb-85e5-1037aa8334b5.png)
-![36_2](https://user-images.githubusercontent.com/84586968/122883299-ab2a3f00-d302-11eb-8796-825ddd0c4edc.png)
-![38_1](https://user-images.githubusercontent.com/84586968/122883326-b0878980-d302-11eb-851d-18daf3d3abfb.png)
-![38_2](https://user-images.githubusercontent.com/84586968/122883330-b1b8b680-d302-11eb-8a51-0f9b7fea6813.png)
 
  **CAPITULO 6**
  
-![2](https://user-images.githubusercontent.com/84586968/122883338-b4b3a700-d302-11eb-8ce8-da9da4758ad8.png)
-![4_1](https://user-images.githubusercontent.com/84586968/122883340-b5e4d400-d302-11eb-9b5d-bcf723d7137d.png)
-![4_2](https://user-images.githubusercontent.com/84586968/122883342-b7160100-d302-11eb-85f5-cba70cfb0ddf.png)
-![6](https://user-images.githubusercontent.com/84586968/122883353-bbdab500-d302-11eb-9807-93f907e4d96f.png)
-![8](https://user-images.githubusercontent.com/84586968/122883363-bda47880-d302-11eb-90ec-41f6abf137eb.png)
+ (10-32)
  
  ![image](https://user-images.githubusercontent.com/85137954/122856168-f715bd80-d2db-11eb-9a29-e78c7e4fe1ac.png)
  
@@ -115,7 +94,22 @@ Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la cor
 
 ![image](https://user-images.githubusercontent.com/85137954/122857343-f2ea9f80-d2dd-11eb-94d2-33e9e06a92fe.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/85137954/122879007-01e14a00-d2fe-11eb-9f8e-8b9d4de1e428.png)
+![image](https://user-images.githubusercontent.com/85137954/122879932-107c3100-d2ff-11eb-9484-f5c6596f1e40.png)
+![image](https://user-images.githubusercontent.com/85137954/122880820-0c9cde80-d300-11eb-9497-ad5503fd4c0a.png)
+![image](https://user-images.githubusercontent.com/85137954/122881132-68676780-d300-11eb-8b30-46e29daeb2a2.png)
+![image](https://user-images.githubusercontent.com/85137954/122881891-3efb0b80-d301-11eb-903c-9d851671daa8.png)
+![image](https://user-images.githubusercontent.com/85137954/122883313-aebdc600-d302-11eb-88fb-d8fca1c6086f.png)
+![image](https://user-images.githubusercontent.com/85137954/122883394-c4cb8680-d302-11eb-8acd-df2063cb4cb6.png)
+![image](https://user-images.githubusercontent.com/85137954/122886654-c34f8d80-d305-11eb-9bd4-79d3e2b4a22b.png)
+![image](https://user-images.githubusercontent.com/85137954/122886716-d19da980-d305-11eb-9bf9-998c8512c079.png)
+![image](https://user-images.githubusercontent.com/85137954/122886810-e67a3d00-d305-11eb-806a-2af47c2a44fb.png)
+![image](https://user-images.githubusercontent.com/85137954/122886938-027dde80-d306-11eb-9e13-d1d6f6f50476.png)
+![image](https://user-images.githubusercontent.com/85137954/122886983-0dd10a00-d306-11eb-82a3-b2e50753f1f5.png)
+![image](https://user-images.githubusercontent.com/85137954/122887080-27725180-d306-11eb-885a-fea3c6650d60.png)
+![image](https://user-images.githubusercontent.com/85137954/122887742-ce56ed80-d306-11eb-82d5-3dcc52b9576d.png)
+
+
 ## 4. VIDEO
 
 
