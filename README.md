@@ -19,6 +19,9 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
+Determinar que sucede en cada circuito en paralelo, como funciona la corriente en cada elemento que se encuentra en paralelo y sobre todo entender que la FEM es equivalente a cada resistencia en paralelo.
+
+Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la corriente, que sucede en cada nodo y como se descompone esta.
 
  ## 2. MARCO TEÓRICO 
  
@@ -98,7 +101,9 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
 
 ## 5. CONCLUSIONES
 
+Sepudo a preciar que los circuitos en paralelo se pueden reducir a circuitos mas simples aplicando la formula de resistencia en paralelo y que el voltaje de un circuito va a ser igual en cada elemento que se encuentre en paralelo, esto mas se da en las resistencias.
 
+Gracias al deber podemos concluir que la ley de corrientes de kirchoff funciona eficazmente, ya que comprendimos que en un nodo se pueden separar las corrientes de acuerdo a que las corrientes que entran al nodo son iguales a las corrientes de salida del nodo.
 
 ## 6. BIBLIOGRAFIA
 
