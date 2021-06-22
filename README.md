@@ -81,6 +81,15 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
 
 ![image](https://user-images.githubusercontent.com/85137954/122856866-31338f00-d2dd-11eb-9fbd-fcbbe8d86452.png)
 
+![image](https://user-images.githubusercontent.com/85137954/122856971-5d4f1000-d2dd-11eb-8471-69ebc10611b5.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122857137-9f785180-d2dd-11eb-92bb-eede0448ae7a.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122857221-bfa81080-d2dd-11eb-91f0-174d27c9cf50.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122857286-dcdcdf00-d2dd-11eb-859f-5fcfe16af7c2.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122857343-f2ea9f80-d2dd-11eb-94d2-33e9e06a92fe.png)
 
  
 ## 4. VIDEO
@@ -93,3 +102,8 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
 
 ## 6. BIBLIOGRAFIA
 
+-Smith, K. C. y R. E. Alley. Electrical Circuits: An Introduction. Nueva York: Cambridge Univ. Press, 1992.
+
+-Su, K. L. Fundamentals of Circuit Analysis. Prospect Heights,IL. Waveland Press, 1993
+
+-Yorke, R. Electric Circuit Theory. 2a. ed. Oxford, U.K.: Pergamon Press, 1986
