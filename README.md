@@ -112,7 +112,7 @@ Analizar las funciones que cumplen las leyes de Kirchoff en el aspecto de la cor
 
 ## 4. VIDEO
 
-
+https://youtu.be/OB4H6_r-P-c
 
 ## 5. CONCLUSIONES
 
