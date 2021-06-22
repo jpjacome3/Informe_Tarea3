@@ -25,6 +25,9 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
  ![png (4)](https://user-images.githubusercontent.com/85137954/122824117-d5014880-d2a5-11eb-930b-89641063f901.png)
 
  ![png (6)](https://user-images.githubusercontent.com/85137954/122824089-cca90d80-d2a5-11eb-9f08-b46c95d6677b.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85137954/122854822-ebc19280-d2d9-11eb-8068-c341f8a68164.png)
+
 
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
