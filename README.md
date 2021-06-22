@@ -62,10 +62,14 @@ Analizar y comprender las diferentes aplicaciones de las leyes para corrientes y
  (10-32)
  
  ![image](https://user-images.githubusercontent.com/85137954/122856168-f715bd80-d2db-11eb-9a29-e78c7e4fe1ac.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85137954/122856233-13195f00-d2dc-11eb-9a28-e161c55429e8.png)
 
 ![image](https://user-images.githubusercontent.com/85137954/122856190-009f2580-d2dc-11eb-9b1b-cb3cd7b972a6.png)
 
-![image](https://user-images.githubusercontent.com/85137954/122856233-13195f00-d2dc-11eb-9a28-e161c55429e8.png)
+![image](https://user-images.githubusercontent.com/85137954/122856328-39d79580-d2dc-11eb-8224-7fccf797791a.png)
+
+
 
  
 ## 4. VIDEO
